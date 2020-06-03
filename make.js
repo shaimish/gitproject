@@ -1,1 +1,1 @@
-this is nnew file
+let single = 'Wheres my bandit hat?';
